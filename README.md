@@ -31,14 +31,14 @@ Demonstrate the trade-off between accuracy and interpretability
 ### 1. Clone the Repository
 
    ```bash
-git clone <repository-url>
-cd <final>
+git clone https://github.com/angelx34/csc334_finalproject.git
+cd <csc334_finalproject>
 ```
 ### 2. Create a Python Enviroment 
 
    ```bash
-conda create -n diabetes-ml python=3.10
-conda activate diabetes-ml
+conda create -n csc334 diabetes-ml python=3.10
+conda activate csc334 diabetes-ml
 ```
 ## 3. Install Required Dependencies
 
